@@ -1,0 +1,8 @@
+body {
+    background-image: url('./images/fondo-textura-ladrillo-azul-patron-oscuro_518299-7483.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+}
